@@ -1,0 +1,4 @@
+When using Windows domains, all credentials are stored in the Domain Controllers. Whenever a user tries to authenticate to a service using domain credentials, the service will need to ask the Domain Controller to verify if they are correct. Two protocols can be used for network authentication in windows domains:
+
+- **Kerberos:** Used by any recent version of Windows. This is the default protocol in any recent domain.
+- **NetNTLM:** Legacy authentication protocol kept for compatibility purposes.

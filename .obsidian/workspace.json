@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "3ff925b180af78dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "868c211992dec2a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73ed3170c2491e8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSINT/Search Engine OSINT/SE OSINT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf2dc9cc1d210ae5",
+    "type": "split",
+    "children": [
+      {
+        "id": "242c5fec9b9ee1f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d41d11f4c20080a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "7a29a69190745aa7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba2512e6672c874a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3424bc495bc88c9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f966a18580e29960",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dfcf6f73c7aba87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OSINT/Search Engine OSINT/SE OSINT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5da1c5427f7915de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OSINT/Search Engine OSINT/SE OSINT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "927f4ce50e4c4f12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bb9a636bb9f1b624",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OSINT/Search Engine OSINT/SE OSINT.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "73ed3170c2491e8a",
+  "lastOpenFiles": [
+    "OSINT/Sock Puppets/Intro.md",
+    "OSINT/Search Engine OSINT/SE OSINT.md",
+    "OSINT/Search Engine OSINT",
+    "OSINT/Sock Puppets/Creating Sock Puppet.md",
+    "OSINT/NoteKeeping.md",
+    "OSINT/Sock Puppets",
+    "Cracking/Hashing 101/Recognising password hashes.md",
+    "LinuxPrivEsc/Escalation Path  Scheduled Tasks/Cron & Timers Overview.md",
+    "LinuxPrivEsc/Other SUID Escalation/Escalation via Shared Object Injection.md",
+    "LinuxPrivEsc/Escalation Path  Scheduled Tasks",
+    "Recon/Passive Recon/Active Recon vs Passive Recon.md",
+    "LinuxPrivEsc/Other SUID Escalation",
+    "Security Principle/Defence-In-Depth.md",
+    "Security Principle/Fundamental Concepts OF security Model.md",
+    "Security Principle/DAD.md",
+    "Security Principle/CIA.md",
+    "Photos/CIA.png",
+    "Photos/CIA.png",
+    "Photos/CIA 1.png",
+    "Photos/DAD.png",
+    "Photos",
+    "LinuxPrivEsc/Sudo/Escalation via CVE-2019-18634.md",
+    "Security Principle",
+    "LinuxPrivEsc/Escalation via SUID/Overview.md",
+    "Cracking/Hashing 101/Password Cracking.md",
+    "Recon/Passive Recon",
+    "Recon/Nmap",
+    "Recon",
+    "PowerShell",
+    "Cracking/Hashing 101/Uses for hashing.md",
+    "Cracking/Hashing 101/What is a hash Function?.md",
+    "Cracking/Hashing 101/KeyTerms.md",
+    "LinuxPrivEsc/Passwords and File Permissions/Weak File Permissions.md",
+    "LinuxPrivEsc/Passwords and File Permissions/Escalation via SSH keys.md",
+    "LinuxPrivEsc/Passwords and File Permissions/Escalation via stored password.md",
+    "LinuxPrivEsc/Escalation via SUID/Try hack me Vulnversity.md",
+    "LinuxPrivEsc/Untitled.md",
+    "LinuxPrivEsc/Sudo/CVE-2019-14287.md",
+    "LinuxPrivEsc/Sudo/Escalation via Sudo Shell Escaping.md",
+    "LinuxPrivEsc/Sudo/Escalation via Intended Functionality.md"
+  ]
+}
